@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>Hi 👋, I'm Bram</h1>
-  <h3>A passionate NodeJs developer from Nigeria</h3>
+  <h3>A tech enthusiast and self-taught NodeJs developer, aspiring to become a Software Engineer. I'm learning backend development and am based in Nigeria.</h3>
   
   <p>
     <a href="https://twitter.com/bramst0ne" target="blank">
