@@ -18,7 +18,7 @@
   <h3>Connect with me:</h3>
   
   <p>
-    <a href="https://twitter.com/bramst0ne" target="blank">
+    <a href="https://twitter.com/6ramstone" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bramst0ne" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/abraham-enoma" target="blank">
