@@ -9,7 +9,7 @@
     </a>
   </p>
   
-  - 🌱 I’m currently learning **Express, MongoDb, PostgreSQL**
+  - 🌱 I’m currently learning **Solidity, Hardhat, Python**
   
   - 💬 Ask me about **NodeJs, Puppeteer**
   
