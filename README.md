@@ -9,9 +9,9 @@
     </a>
   </p>
   
-  - 🌱 I’m currently learning **Solidity, Hardhat, Python**
+  - 🌱 I’m currently learning **Solidity**
   
-  - 💬 Ask me about **NodeJs, Puppeteer**
+  - 💬 Ask me about **NodeJs**
   
   - 📫 How to reach me **en4abraham@gmail.com**
   
