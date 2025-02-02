@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>Hi 👋, I'm Bram</h1>
-  <h3>A tech enthusiast and self-taught backend developer specializing in Node.js. I'm now exploring Web3 and blockchain development. Aspiring to become a Software Engineer, I’m passionate about building scalable backend systems. Based in Nigeria.</h3>
+  <h3>A self-taught backend developer specializing in Node.js, currently focused on Web3 and blockchain development. I’m learning smart contract development with Solidity and working toward becoming a full-stack blockchain developer. Passionate about building scalable systems and constantly exploring new technologies to broaden my skills.</h3>
   
   <p>
     <a href="https://twitter.com/bramst0ne" target="blank">
