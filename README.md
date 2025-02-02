@@ -4,7 +4,7 @@
   <h3>A self-taught backend developer specializing in Node.js, currently focused on Web3 and blockchain development. I’m learning smart contract development with Solidity and working toward becoming a full-stack blockchain developer. Passionate about building scalable systems and constantly exploring new technologies to broaden my skills.</h3>
   
   <p>
-    <a href="https://twitter.com/bramst0ne" target="blank">
+    <a href="https://twitter.com/6ramstone" target="blank">
       <img src="https://img.shields.io/twitter/follow/bramst0ne?logo=twitter&style=for-the-badge" alt="bramst0ne" />
     </a>
   </p>
