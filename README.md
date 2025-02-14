@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>Hi 👋, I'm Bram</h1>
-  <h3>A self-taught backend specialized in Node.js. Currently, I’m learning how to write smart contracts with Solidity and aiming at becoming a full-stack blockchain developer. Passionate about building scalable systems and constantly exploring new technologies to broaden my skills.</h3>
+  <h3>A self-taught developer specialized in Node.js. Currently, I’m learning how to write smart contracts with Solidity and aiming at becoming a full-stack blockchain developer. Passionate about building scalable systems and constantly exploring new technologies to broaden my skills.</h3>
   
   <p>
     <a href="https://twitter.com/6ramstone" target="blank">
