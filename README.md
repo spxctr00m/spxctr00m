@@ -9,13 +9,9 @@
     </a>
   </p>
   
-  - 🌱 I’m currently learning **Solidity**
+  - 📫 You can reach me via **en4abraham@gmail.com**
   
-  - 💬 Ask me about **NodeJs**
-  
-  - 📫 How to reach me **en4abraham@gmail.com**
-  
-  <h3>Connect with me:</h3>
+  <h3>Connect with my socials:</h3>
   
   <p>
     <a href="https://twitter.com/6ramstone" target="blank">
