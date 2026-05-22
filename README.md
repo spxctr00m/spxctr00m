@@ -1,6 +1,4 @@
-# 👋 Hi, I'm bram
-
-🚀 Full-stack Web3 & backend developer  
+🚀 Full-stack dev
 🔗 Building [VELT Protocol](https://github.com/chiefEbube/velt) — a modular, scalable DeFi lending system  
 🧠 Exploring the intersection of AI, blockchain infrastructure, and ZK systems
 
